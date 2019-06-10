@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Android-Plugin-App.iml" filepath="$PROJECT_DIR$/Android-Plugin-App.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_host/app_host.iml" filepath="$PROJECT_DIR$/app_host/app_host.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_plugin/app_plugin.iml" filepath="$PROJECT_DIR$/app_plugin/app_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle_library/bundle_library.iml" filepath="$PROJECT_DIR$/bundle_library/bundle_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle_local/bundle_local.iml" filepath="$PROJECT_DIR$/bundle_local/bundle_local.iml" />
     </modules>
   </component>
 </project>

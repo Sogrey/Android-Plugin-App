@@ -1,1 +1,1 @@
-include ':app_plugin', ':app_host'
+include ':app_plugin', ':app_host', ':bundle_local', ':bundle_library'
