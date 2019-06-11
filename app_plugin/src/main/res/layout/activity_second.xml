@@ -21,10 +21,9 @@
             android:gravity="center"
             android:text="插件APP - 第二个页面" />
 
-        <Button
+        <Button android:id="@+id/btn_jumpMainActivity"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="jumpMainActivity"
             android:text="跳转第一个页面" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
