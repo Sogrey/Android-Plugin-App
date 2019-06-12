@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
         //获取插件apk的第一个activity的name
         String apkMainActivity = pluginManager.getPackageInfo().activities[0].name;
         intent.putExtra("className",apkMainActivity);
+        intent.putExtra("param1","由宿主APP跳转至未安装的插件APP");
         startActivity(intent);
     }
 }
